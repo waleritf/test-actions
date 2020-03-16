@@ -1,0 +1,15 @@
+{
+  "name": "test-node",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo fuck off tests",
+    "staging-deploy": "echo staging deploy!!!"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
